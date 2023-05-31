@@ -1,5 +1,6 @@
 # Assignment1_OnlineSales
 # 🧑‍💻solutionS.
+# https://ovaid.github.io/Assignment1_OnlineSales/
 
 /*   Task-1 SQL solution :-   */ 
 SELECT DEPT_NAME, AVG(MONTHLY_SALARY) AS AVG_MONTHLY_SALARY
